@@ -1,0 +1,8 @@
+server/node_modules/*
+server/uploads/lease_upload/*
+*.zip
+server/package-lock.json
+server/.env
+server/src/uploads/*
+
+front_end/node_modules/*
